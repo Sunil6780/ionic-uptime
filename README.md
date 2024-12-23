@@ -8,6 +8,13 @@ This plugin provides the system uptime in milliseconds since boot, allowing deve
 npm install uptime
 npx cap sync
 ```
+## Supported Platforms
+
+```
+* Android
+* iOS
+```
+
 
 ## API
 
@@ -51,3 +58,15 @@ getUptime(options: { includeDeepSleep: boolean; }) => Promise<{ uptime: number; 
 --------------------
 
 </docgen-api>
+
+## Author
+
+```
+This plugin is made with ❤️ by Sunil Mishra
+```
+
+## License
+
+```
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+```
