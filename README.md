@@ -5,7 +5,7 @@ This plugin provides the system uptime in milliseconds since boot, allowing deve
 ## Install
 
 ```bash
-npm install uptime
+npm install ionic-uptime-plugin
 npx cap sync
 ```
 ## Supported Platforms

@@ -1,5 +1,5 @@
 {
-  "name": "uptime",
+  "name": "ionic-uptime-plugin",
   "version": "0.0.1",
   "description": "This plugin provides the system uptime in milliseconds since boot, allowing developers to track how long a device has been running. This can be particularly useful for monitoring, diagnostics, or adding uptime information within an application.",
   "main": "dist/plugin.cjs.js",
